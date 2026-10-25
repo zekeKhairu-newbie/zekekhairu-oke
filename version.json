@@ -1,0 +1,15 @@
+﻿{
+    "songbook":  {
+                     "version":  1,
+                     "url":  ""
+                 },
+    "app":  {
+                "apkUrl":  "",
+                "versionCode":  152,
+                "version":  "1.5.2"
+            },
+    "songs":  {
+                  "version":  1,
+                  "url":  ""
+              }
+}
