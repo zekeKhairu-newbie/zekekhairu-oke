@@ -4,8 +4,8 @@
                      "url":  "https://raw.githubusercontent.com/zekeKhairu-newbie/zekekhairu-oke/main/songbook/Zeke_Khairu_Oke_1.pdf"
                  },
     "app":  {
-                "apkUrl":  "",
-                "versionCode":  152,
+                "apkUrl":  "https://github.com/zekeKhairu-newbie/zekekhairu-oke/releases/download/v1.5.2/ZekeKhairuOke-v1.5.2-newpackage-signed.apk",
+                "versionCode":  7,
                 "version":  "1.5.2"
             },
     "songs":  {
