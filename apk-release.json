@@ -1,0 +1,13 @@
+﻿{
+    "versionCode":  7,
+    "versionName":  "1.5.2",
+    "apk":  "https://github.com/zekeKhairu-newbie/zekekhairu-oke/releases/download/v1.5.2/ZekeKhairuOke-v1.5.2-newpackage-signed.apk",
+    "bytes":  20820955,
+    "sha256":  "6bd4c082f1485742d7cc3fd403bcc9a1f1a72fb31aaaa9f0254f3a44b18a02dc",
+    "page":  "https://github.com/zekeKhairu-newbie/zekekhairu-oke/releases/tag/v1.5.2",
+    "notes":  [
+                  "GitHub test release",
+                  "New Android package"
+              ],
+    "minSdk":  26
+}
