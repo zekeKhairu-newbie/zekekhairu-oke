@@ -4,16 +4,16 @@
   "items": [],
   "built": "2026-11-15",
   "app": {
-    "versionCode": 10,
+    "versionCode": 11,
     "versionName": "1.5.6",
-    "apk": "https://github.com/zekeKhairu-newbie/zekekhairu-oke/releases/download/v1.5.6-independent1/ZekeKhairuOke-v1.5.6-independent1.apk",
+    "apk": "https://github.com/zekeKhairu-newbie/zekekhairu-oke/releases/download/v1.5.6-independent2/ZekeKhairuOke-v1.5.6-independent2.apk",
     "bytes": 20788187,
-    "sha256": "000fbc2f02086795a14d375d4385b6bb80b57d4e253af4b6dab70deffca2fde4",
-    "page": "https://github.com/zekeKhairu-newbie/zekekhairu-oke/releases/tag/v1.5.6-independent1",
+    "sha256": "b1943b7f86b7d63fff6e438f8d911567fb68b57178405bae49bd60f4b44417c3",
+    "page": "https://github.com/zekeKhairu-newbie/zekekhairu-oke/releases/tag/v1.5.6-independent2",
     "notes": [
-      "Independent Zeke app: com.zekekhairu.oke. Version 1.5.6, internal code 10.",
-      "Separate installation; previous app data is not transferred automatically. Keep the old app until testing and backup are complete.",
-      "Repository-only updates. Song and sound packages are not yet hosted here."
+      "Startup fix: Use my own songs is available without a downloaded library.",
+      "Version 1.5.6, internal code 11. Install over independent1 without uninstalling.",
+      "Song and sound packages are not yet hosted here. Add your own compatible files through Settings."
     ],
     "minSdk": 26
   },
