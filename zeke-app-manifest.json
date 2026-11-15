@@ -1,0 +1,23 @@
+{
+  "version": "zeke-independent-catalog-2026-11-15",
+  "bytes": 0,
+  "items": [],
+  "built": "2026-11-15",
+  "app": {
+    "versionCode": 10,
+    "versionName": "1.5.6",
+    "apk": "https://github.com/zekeKhairu-newbie/zekekhairu-oke/releases/download/v1.5.6-independent1/ZekeKhairuOke-v1.5.6-independent1.apk",
+    "bytes": 20788187,
+    "sha256": "000fbc2f02086795a14d375d4385b6bb80b57d4e253af4b6dab70deffca2fde4",
+    "page": "https://github.com/zekeKhairu-newbie/zekekhairu-oke/releases/tag/v1.5.6-independent1",
+    "notes": [
+      "Independent Zeke app: com.zekekhairu.oke. Version 1.5.6, internal code 10.",
+      "Separate installation; previous app data is not transferred automatically. Keep the old app until testing and backup are complete.",
+      "Repository-only updates. Song and sound packages are not yet hosted here."
+    ],
+    "minSdk": 26
+  },
+  "retired": [],
+  "merged": {},
+  "sponsors": []
+}
