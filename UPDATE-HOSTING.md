@@ -29,8 +29,8 @@ fetched from Kara-Okay. Real-device migration testing is still required.
 * `notes`: array of strings.
 * `minSdk`: minimum Android API level.
 
-The repository-only candidate retains version name `1.5.6`, with code `8`.
-Future updates must have a code greater than 8. Keep the application ID
+The repository-only candidate retains version name `1.5.6`, with code `9` (logo-fix repo2).
+Future updates must have a code greater than 9. Keep the application ID
 `okay.kara` and the existing release signing certificate. Do not remove the
 APK hash, package or signing checks. `apk-release.json` mirrors the app object;
 `version.json` is maintained for compatibility with older custom tooling.
