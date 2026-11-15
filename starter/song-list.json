@@ -1,0 +1,23 @@
+[
+  {
+    "number": "00001",
+    "title": "Twinkle Twinkle Little Star",
+    "artist": "Traditional",
+    "lyric_events": 42,
+    "seconds": 32.4
+  },
+  {
+    "number": "00002",
+    "title": "Mary Had a Little Lamb",
+    "artist": "Traditional",
+    "lyric_events": 26,
+    "seconds": 22.8
+  },
+  {
+    "number": "00003",
+    "title": "Hot Cross Buns",
+    "artist": "Traditional",
+    "lyric_events": 17,
+    "seconds": 13.2
+  }
+]

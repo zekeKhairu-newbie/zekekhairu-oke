@@ -27,14 +27,13 @@ The absolute implementation class names still use `okay.kara`, deliberately:
 the audio native library depends on its JNI class names. Those internal
 class names do not determine which installed Android application is updated.
 
-The catalog remains empty: no upstream songs, Major, Dreamsam or background
-packages have been copied into this repository. A fresh install needs your
-own compatible files until repository-hosted packages are supplied. See
-`UPDATE-HOSTING.md` for catalog format and hosting details, but use the
-independent manifest and version sequence for this application ID.
+A repository-only starter catalog is now available: three traditional karaoke
+songs and GeneralUser GS v2.0.3. See STARTER-PACK.md for download and licensing
+details. This is not the full Kara-Okay library. The independent app reads
+zeke-app-manifest.json; the older okay.kara channel remains separate.
 
 This is a prerelease. Static APK checks do not substitute for side-by-side
 installation, audio playback, import, permissions and future update testing
 on Android. No device was connected during the build.
 
-The independent2 startup screen offers **Use my own songs** without requiring a downloaded library. Import your own compatible files in Settings. This does not supply repository song packages.
+The independent2 startup screen offers **Use my own songs** without requiring a downloaded library. Import your own compatible files in Settings. Repository starter downloads are also available through Download songs or Resume.

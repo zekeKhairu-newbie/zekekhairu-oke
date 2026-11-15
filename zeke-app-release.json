@@ -6,9 +6,9 @@
   "sha256": "b1943b7f86b7d63fff6e438f8d911567fb68b57178405bae49bd60f4b44417c3",
   "page": "https://github.com/zekeKhairu-newbie/zekekhairu-oke/releases/tag/v1.5.6-independent2",
   "notes": [
-    "Startup fix: Use my own songs is available without a downloaded library.",
-    "Version 1.5.6, internal code 11. Install over independent1 without uninstalling.",
-    "Song and sound packages are not yet hosted here. Add your own compatible files through Settings."
+    "Independent Zeke com.zekekhairu.oke, version 1.5.6, internal code 11; startup fix included.",
+    "Repository-only starter downloads are now available: three traditional karaoke songs and GeneralUser GS soundfont.",
+    "Use Download songs or Resume. This is a starter library, not the full Kara-Okay library."
   ],
   "minSdk": 26
 }

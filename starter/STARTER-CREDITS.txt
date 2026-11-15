@@ -1,0 +1,16 @@
+Zeke starter pack v1
+
+Three new MIDI arrangements of traditional/public-domain melodies and words:
+00001 Twinkle Twinkle Little Star (traditional melody; Jane Taylor, 1806 words)
+00002 Mary Had a Little Lamb (traditional melody; Sarah Josepha Hale, 1830 words)
+00003 Hot Cross Buns (traditional nursery rhyme)
+
+These MIDI arrangements were newly generated for Zeke Khairu Oke; no upstream
+Kara-Okay song files or recordings were copied. To the extent copyright applies
+to this new arrangement work, it is dedicated to the public domain under CC0-1.0:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+The separately downloaded GeneralUser GS soundfont is by S. Christian Collins,
+and retains its own license. See GeneralUser-GS-LICENSE.txt and
+https://github.com/mrbumpy409/GeneralUser-GS
+It is not Major or Dreamsam.

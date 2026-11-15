@@ -1,7 +1,35 @@
 {
-  "version": "zeke-independent-catalog-2026-11-15",
-  "bytes": 0,
-  "items": [],
+  "version": "zeke-starter-v1-2026-11-15",
+  "bytes": 32323110,
+  "items": [
+    {
+      "id": "zeke_starter_songs_v1",
+      "key": "packs/zeke-starter-songs-v1.zip",
+      "kind": "songs",
+      "name": "Zeke Starter - 3 songs",
+      "bytes": 3714,
+      "sha256": "45677cf403629c892f6fbeab6ec8cff3a754d02f30026e3e1ff90dab66e05de4",
+      "url": "https://github.com/zekeKhairu-newbie/zekekhairu-oke/releases/download/starter-pack-v1/zeke-starter-songs-v1.zip",
+      "optional": false,
+      "category": "Zeke Starter",
+      "default": false,
+      "base": false,
+      "layered": false
+    },
+    {
+      "id": "zeke_generaluser_gs_203",
+      "key": "soundfonts/GeneralUser-GS-2.0.3.sf2",
+      "kind": "soundfont",
+      "name": "Zeke Starter Sound - GeneralUser GS",
+      "bytes": 32319396,
+      "sha256": "9575028c7a1f589f5770fccc8cff2734566af40cd26ed836944e9a5152688cfe",
+      "url": "https://github.com/zekeKhairu-newbie/zekekhairu-oke/releases/download/starter-pack-v1/GeneralUser-GS.sf2",
+      "optional": false,
+      "default": true,
+      "base": true,
+      "layered": false
+    }
+  ],
   "built": "2026-11-15",
   "app": {
     "versionCode": 11,
@@ -11,9 +39,9 @@
     "sha256": "b1943b7f86b7d63fff6e438f8d911567fb68b57178405bae49bd60f4b44417c3",
     "page": "https://github.com/zekeKhairu-newbie/zekekhairu-oke/releases/tag/v1.5.6-independent2",
     "notes": [
-      "Startup fix: Use my own songs is available without a downloaded library.",
-      "Version 1.5.6, internal code 11. Install over independent1 without uninstalling.",
-      "Song and sound packages are not yet hosted here. Add your own compatible files through Settings."
+      "Independent Zeke com.zekekhairu.oke, version 1.5.6, internal code 11; startup fix included.",
+      "Repository-only starter downloads are now available: three traditional karaoke songs and GeneralUser GS soundfont.",
+      "Use Download songs or Resume. This is a starter library, not the full Kara-Okay library."
     ],
     "minSdk": 26
   },

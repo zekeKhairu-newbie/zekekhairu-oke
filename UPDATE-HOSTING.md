@@ -7,8 +7,8 @@ candidate once; changing these JSON files cannot redirect old installed code.
 
 ## Current status
 
-The catalog is intentionally empty. This repository currently has the app APK
-and a songbook, but no downloadable song, soundfont or background packages.
+The legacy asset-manifest.json catalog is intentionally empty. This repository now hosts an independent-app starter catalog (see STARTER-PACK.md). The older release-only channel has the app APK
+and a songbook, but does not use those independent-app starter packages.
 Do not claim that Major, Dreamsam or the upstream song library is hosted here.
 The candidate keeps an installed catalog when it receives an empty catalog,
 and will not prune files based on an empty catalog. Its asset and APK URL
