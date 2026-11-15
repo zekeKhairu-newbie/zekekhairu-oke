@@ -1,8 +1,8 @@
 # Independent Zeke application
 
 The independent Zeke app uses Android application ID `com.zekekhairu.oke`.
-Its current candidate is `v1.5.6-independent2`, visible version `1.5.6`,
-internal version code `11`, signed with the original Zeke release key.
+Its current candidate is `v1.5.6-independent3`, visible version `1.5.6`,
+internal version code `12`, signed with the original Zeke release key.
 
 Install it manually as a new app alongside the old Zeke/Kara-Okay package.
 Do not uninstall the working old app until needed data has been backed up,
@@ -17,7 +17,7 @@ not advertise an APK with the new application ID. A different application ID
 cannot be delivered as an ordinary update to an existing installation.
 
 Future independent Zeke updates must keep `com.zekekhairu.oke`, the same Zeke
-signing certificate and an increasing version code greater than 11. Publish
+signing certificate and an increasing version code greater than 12. Publish
 the APK release asset first, verify its size and SHA-256, then update
 `zeke-app-manifest.json.app` and `zeke-app-release.json` together. A GitHub
 release alone is insufficient for the in-app updater, which reads the JSON.
@@ -37,3 +37,5 @@ installation, audio playback, import, permissions and future update testing
 on Android. No device was connected during the build.
 
 The independent2 startup screen offers **Use my own songs** without requiring a downloaded library. Import your own compatible files in Settings. Repository starter downloads are also available through Download songs or Resume.
+
+Independent3 corrects visible installer and generated-songbook branding. Existing PDF files must be regenerated to show the new headings.

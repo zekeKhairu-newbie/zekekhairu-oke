@@ -32,16 +32,16 @@
   ],
   "built": "2026-11-15",
   "app": {
-    "versionCode": 11,
+    "versionCode": 12,
     "versionName": "1.5.6",
-    "apk": "https://github.com/zekeKhairu-newbie/zekekhairu-oke/releases/download/v1.5.6-independent2/ZekeKhairuOke-v1.5.6-independent2.apk",
+    "apk": "https://github.com/zekeKhairu-newbie/zekekhairu-oke/releases/download/v1.5.6-independent3/ZekeKhairuOke-v1.5.6-independent3.apk",
     "bytes": 20788187,
-    "sha256": "b1943b7f86b7d63fff6e438f8d911567fb68b57178405bae49bd60f4b44417c3",
-    "page": "https://github.com/zekeKhairu-newbie/zekekhairu-oke/releases/tag/v1.5.6-independent2",
+    "sha256": "f09c729ac72fc51a95af0d5da3745f8f80286818d045335709a0362b2bce41cc",
+    "page": "https://github.com/zekeKhairu-newbie/zekekhairu-oke/releases/tag/v1.5.6-independent3",
     "notes": [
-      "Independent Zeke com.zekekhairu.oke, version 1.5.6, internal code 11; startup fix included.",
-      "Repository-only starter downloads are now available: three traditional karaoke songs and GeneralUser GS soundfont.",
-      "Use Download songs or Resume. This is a starter library, not the full Kara-Okay library."
+      "Zeke branding fix: installer instructions, generated songbook headings and filenames.",
+      "Own application ID com.zekekhairu.oke. Version 1.5.6, internal code 12. Install over the independent app without uninstalling.",
+      "Repository-only starter downloads are retained: three traditional songs and GeneralUser GS."
     ],
     "minSdk": 26
   },
