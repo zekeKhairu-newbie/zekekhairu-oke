@@ -1,0 +1,23 @@
+{
+  "version": "zeke-catalog-2026-11-15",
+  "bytes": 0,
+  "items": [],
+  "built": "2026-11-15",
+  "app": {
+    "versionCode": 8,
+    "versionName": "1.5.6",
+    "apk": "https://github.com/zekeKhairu-newbie/zekekhairu-oke/releases/download/v1.5.6-repo1/ZekeKhairuOke-v1.5.6-repo1.apk",
+    "bytes": 20788187,
+    "sha256": "9947c5b2f9337b883f1a5174a25aaf515b420ebbdb7d4a278be701ec45c134d6",
+    "page": "https://github.com/zekeKhairu-newbie/zekekhairu-oke/releases/tag/v1.5.6-repo1",
+    "notes": [
+      "Repository-only update candidate: updates and library download sources now use the Zeke repository.",
+      "Version name 1.5.6; internal code 8. Same release signing certificate.",
+      "Song and sound packages are not yet hosted here. Previously downloaded content is retained. Device testing required."
+    ],
+    "minSdk": 26
+  },
+  "retired": [],
+  "merged": {},
+  "sponsors": []
+}
